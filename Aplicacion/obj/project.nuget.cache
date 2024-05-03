@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "HLWSzl3A/0R6lOBYCf7EYSTRCGYdQdnEdJftN6NDfOvPnUgm0iA6e/Mn9Zzj9uhIdbKlCCcva5+mkTLmOy3MhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kito_\\OneDrive\\Documentos\\TestCustomSoft\\Aplicacion\\Aplicacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kito_\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\kito_\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\kito_\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kito_\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kito_\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

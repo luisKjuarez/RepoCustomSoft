@@ -1,0 +1,6 @@
+@TestCustomSoft_HostAddress = http://localhost:5208
+
+GET {{TestCustomSoft_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
